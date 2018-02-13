@@ -1,0 +1,18 @@
+JIMMY: Claaaire!!!
+ 	É
+JIMMY: I knew it! I knew there was going to be a hole.
+JIMMY: Not this deep, though.
+ 	É
+JIMMY: Claaaaaaaire!!
+A weird loud noise comes out of the hole. It scares you.
+	É
+1. Walk away
+2. Go after Claire
+	É
+// Walk away
+JIMMY: It can't be that deep. I have to go.
+You walk a few meters, and suddenly you fall into a hole as well. Game over.
+
+
+
+
